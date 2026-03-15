@@ -46,7 +46,7 @@ The goal of this dashboard is to help business stakeholders identify:
 
 ## Customer Detail
 
-![Customer Detail](images/Customer%20Detail.png) Custormer Detail.png
+![Customer Detail](images/Custormer%20Detail.png) 
 
 ---
 
