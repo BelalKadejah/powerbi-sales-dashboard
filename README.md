@@ -28,37 +28,37 @@ The goal of this dashboard is to help business stakeholders identify:
 
 ## Executive Dashboard
 
-![Executive Dashboard](images/Exec Dashboard.png)
+![Executive Dashboard](images/Exec%20Dashboard.png)
 
 ---
 
 ## Sales Map
 
-![Sales Map](Sales Map.png)  
+![Sales Map](images/Sales%20Map.png)
 
 ---
 
 ## Product Details
 
-![Product Details](Product Details.png)
+![Product Details](images/Product%20Details.png)
 
 ---
 
 ## Customer Detail
 
-![Customer Detail](Customer Detail.png)
+![Customer Detail](images/Customer%20Detail.png) Custormer Detail.png
 
 ---
 
 ## Key Influencers
 
-![Key Influencers](Sales Key Influencers.png)
+![Key Influencers](images/Sales%20Key%20Influencers.png)
 
 ---
 
 ## Decomposition Tree
 
-![Decomposition Tree](Decomposition Tree.png)
+![Decomposition Tree](images/Decomposition%20Tree.png)
 
 ---
 
